@@ -147,7 +147,7 @@ Training progress is logged every 1,000 epochs showing:
 
 ## 9. Result Graph
 
-The figure below shows:<img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/d22ea61f-f32c-4bdd-a5c1-f0fb67996048" />
+The figure below shows:<img width="889" height="490" alt="image" src="https://github.com/Jashanpreet645/-Learning-Probability-Density-Functions-Predictive-Assignment-4-/result.png" />
 
 
 1. **Filled Blue Curve:** Real transformed samples distribution (KDE)
